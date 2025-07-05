@@ -1,1 +1,1 @@
-fork this project just for learning purpose.
+fork this project just for learning purpose only.
